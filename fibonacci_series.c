@@ -6,7 +6,6 @@ int main() {
     int b = 1;
     int suivant;
 
-    printf("Entrez la valeur limite : ");
     scanf("%d", &limite);
 
     printf("Fibonacci : ");
