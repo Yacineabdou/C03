@@ -4,7 +4,6 @@ int main() {
     int nombre;
     int compte = 0;
 
-    printf("Entrez un entier : ");
     scanf("%d", &nombre);
     printf("%d", nombre);
     // Gérer le cas spécial de 0
