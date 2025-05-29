@@ -3,8 +3,6 @@
 int main() {
     float celsius, fahrenheit;
 
-    // Demander à l'utilisateur d'entrer la température en Celsius
-    printf("Entrez la température en Celsius : ");
     scanf("%f", &celsius);
 
     // Appliquer la formule de conversion
